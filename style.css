@@ -1,0 +1,17 @@
+body{
+    background-image: url("img/fond.jpeg");
+    
+}
+#olo{
+    margin-top: 100px;
+}
+#ololo{
+    margin-top: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    color: rgb(255, 251, 0);
+    
+
+}
+a{
+    text-decoration: none;
+}

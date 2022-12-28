@@ -1,0 +1,7 @@
+body{
+    background-image: url('img/cocktails.gif');
+    margin: auto;
+    justify-content: auto;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
